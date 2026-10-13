@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Studio — AI Quiz Generator",
+  "description": "Generate custom academic multiple-choice quizzes on any topic with Google Gemini AI, test your knowledge interactively, and receive in-depth explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
